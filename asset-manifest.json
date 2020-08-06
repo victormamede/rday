@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rday/static/css/main.55a8326a.chunk.css",
+    "main.css": "/rday/static/css/main.27079f46.chunk.css",
     "main.js": "/rday/static/js/main.d58d046e.chunk.js",
     "main.js.map": "/rday/static/js/main.d58d046e.chunk.js.map",
     "runtime-main.js": "/rday/static/js/runtime-main.78caa078.js",
@@ -8,9 +8,9 @@
     "static/js/2.e9062d92.chunk.js": "/rday/static/js/2.e9062d92.chunk.js",
     "static/js/2.e9062d92.chunk.js.map": "/rday/static/js/2.e9062d92.chunk.js.map",
     "index.html": "/rday/index.html",
-    "precache-manifest.562fc14bb96e8f892da7adea97f952c4.js": "/rday/precache-manifest.562fc14bb96e8f892da7adea97f952c4.js",
+    "precache-manifest.55ba8a09c28e35b50deb612d564fd046.js": "/rday/precache-manifest.55ba8a09c28e35b50deb612d564fd046.js",
     "service-worker.js": "/rday/service-worker.js",
-    "static/css/main.55a8326a.chunk.css.map": "/rday/static/css/main.55a8326a.chunk.css.map",
+    "static/css/main.27079f46.chunk.css.map": "/rday/static/css/main.27079f46.chunk.css.map",
     "static/js/2.e9062d92.chunk.js.LICENSE.txt": "/rday/static/js/2.e9062d92.chunk.js.LICENSE.txt",
     "static/media/cake.png": "/rday/static/media/cake.8f5ae299.png",
     "static/media/ricardo-dancing.gif": "/rday/static/media/ricardo-dancing.c62a32ed.gif",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.78caa078.js",
     "static/js/2.e9062d92.chunk.js",
-    "static/css/main.55a8326a.chunk.css",
+    "static/css/main.27079f46.chunk.css",
     "static/js/main.d58d046e.chunk.js"
   ]
 }
